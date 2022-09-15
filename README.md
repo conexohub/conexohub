@@ -28,7 +28,7 @@
 
 <img align="center" alt="hub-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 
-<img align="right" alt="hub-pic" height="150" style="border-radius:50px;" src="https://conexo.studio/wp-content/uploads/2022/07/rodrigo-1013x927-px.png?width=676&height=676">
+<img align="right" alt="hub-pic" height="250" style="border-radius:50px;" src="https://conexo.studio/wp-content/uploads/2022/07/rodrigo-1013x927-px.png">
 
 </div>
 
