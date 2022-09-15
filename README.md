@@ -46,5 +46,5 @@
 
 ![Snake animation](https://github.com/conexohub/conexohub/blob/main/.github/workflows/cobrinha.svg)
 <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=conexohub&layout=compact&langs_count=7&theme=dracula"/>
-<img align="right" alt="Pc-pic" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
+<img align="right" alt="Pc-pic" height="150" style="border-radius:50px;" src="https://github.com/conexohub/conexohub/blob/main/computer-illustration.png">
 
