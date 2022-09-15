@@ -1,5 +1,5 @@
 
-## Oiii eu sou Rodrigo Luís Coelli, criador de conteúdo de programação e tecnologia!
+## Oiii eu sou Rodrigo Luís Coelli, criador da #conexohub!
 
 
 <div align="center">
