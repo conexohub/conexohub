@@ -54,7 +54,7 @@
 
 
 
-![Snake animation](https://github.com/conexohub/conexohub/cobrinha.yml)
+![Snake animation](https://github.com/conexohub/conexohub/github-contribution-grid-snake.svg)
 
 
 
