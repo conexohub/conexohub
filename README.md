@@ -44,7 +44,5 @@
   <a href="https://www.linkedin.com/in/conexohub" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![Snake animation](https://github.com/conexohub/conexohub/blob/main/.github/workflows/cobrinha.svg)
-<img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=conexohub&layout=compact&langs_count=7&theme=dracula"/>
-<img align="right" alt="Pc-pic" height="150" style="border-radius:50px;" src="https://github.com/conexohub/conexohub/blob/main/computer-illustration.png">
+
 
